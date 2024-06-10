@@ -42,13 +42,12 @@ The notebook includes a section for time series forecasting using the Facebook P
 
 To run the project, follow these steps:
 
-1. Clone the repository:
-2. Clone this repository:
+1. Clone this repository:
    ```bash
    git clone https://github.com/amangupta143/Air-Quality-Prediction-FB-Prophet.git
-3. Install the required dependencies (pandas, numpy, and fbprophet).
-4. Open the `Air_Quality_Forecasting.ipynb` notebook in your preferred `Jupyter Notebook` environment.
-5. Run the cells in the notebook to preprocess the data, train the Prophet model, and generate the forecast.
+2. Install the required dependencies (pandas, numpy, and fbprophet).
+3. Open the `Air_Quality_Forecasting.ipynb` notebook in your preferred `Jupyter Notebook` environment.
+4. Run the cells in the notebook to preprocess the data, train the Prophet model, and generate the forecast.
 
 The notebook will display the visualizations and the forecasted values.
 
