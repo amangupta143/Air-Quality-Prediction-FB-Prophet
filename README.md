@@ -1,5 +1,7 @@
 # Air Quality Forecasting with Facebook Prophet
 
+<img width="40%" align="right" src="https://github.com/amangupta143/Air-Quality-Prediction-FB-Prophet/assets/109453339/4450d726-4d8d-4afd-8ce8-e0b3e894982a"></img>
+
 This project focuses on time series forecasting of air quality data using the Facebook Prophet algorithm. The dataset contains hourly averaged responses from an array of metal oxide chemical sensors deployed in an Italian city, along with ground truth concentrations for various pollutants provided by a co-located reference certified analyzer.
 
 ## Dataset
