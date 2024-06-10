@@ -71,3 +71,14 @@ This project is licensed under the MIT License.
 
 The Air Quality dataset is provided by the UCI Machine Learning Repository: <a href="https://archive.ics.uci.edu/dataset/360/air+quality">Air Quality Data Set</a>. \
 The Facebook Prophet library is developed and maintained by Facebook's Core Data Science team: Facebook Prophet.
+
+<!-- Animated Line: -->
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+Happy coding! 🚀
+
+<!-- Footer Links -->
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://github.com/amangupta143)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/amangupta143)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amangupta143/)
