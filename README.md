@@ -1,5 +1,7 @@
 # Air Quality Forecasting with Facebook Prophet
 
+<img width="40%" align="right" src="https://github.com/amangupta143/Air-Quality-Prediction-FB-Prophet/assets/109453339/4450d726-4d8d-4afd-8ce8-e0b3e894982a"></img>
+
 This project focuses on time series forecasting of air quality data using the Facebook Prophet algorithm. The dataset contains hourly averaged responses from an array of metal oxide chemical sensors deployed in an Italian city, along with ground truth concentrations for various pollutants provided by a co-located reference certified analyzer.
 
 ## Dataset
@@ -69,3 +71,14 @@ This project is licensed under the MIT License.
 
 The Air Quality dataset is provided by the UCI Machine Learning Repository: <a href="https://archive.ics.uci.edu/dataset/360/air+quality">Air Quality Data Set</a>. \
 The Facebook Prophet library is developed and maintained by Facebook's Core Data Science team: Facebook Prophet.
+
+<!-- Animated Line: -->
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+Happy coding! 🚀
+
+<!-- Footer Links -->
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://github.com/amangupta143)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/amangupta143)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amangupta143/)
